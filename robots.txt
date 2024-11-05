@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://imovuigi.github.io/hNy/sitemap_index.txt
+Sitemap: https://imovuigi.github.io/hfY/sitemap_index.txt
+Sitemap: https://imovuigi.github.io/vRt/sitemap_index.txt
+Sitemap: https://imovuigi.github.io/xcu/sitemap_index.txt
